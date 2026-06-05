@@ -41,9 +41,9 @@ can be manipulated independently.
 
 
 
-【Stimulus Design】
+# Stimulus Design
 
-Center Colors
+## Center Colors
 
 The central patches vary along a calibrated blue–purple color axis (D2 axis).
 
@@ -63,7 +63,7 @@ Large categorical jumps are avoided.
 
 
 
-【Surround Colors】
+## Surround Colors
 
 Two large chromatic surrounds are presented:
 
