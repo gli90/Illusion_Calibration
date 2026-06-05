@@ -292,4 +292,4 @@ Perceived Difference
 
 allowing confidence and accuracy to be experimentally dissociated.
 
-这是一个比较正式、接近预注册（preregistration）和实验文档风格的 README，后面无论是给导师、RA、合作者还是写 Methods，都可以直接沿用。
+
