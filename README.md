@@ -1,7 +1,7 @@
 # Illusion Calibration
 
 
-# Purpose
+## Purpose
 
 This task(b) estimates each participant’s illusion magnitude (Δ_illusion) using a color matching / nulling procedure.
 
@@ -10,7 +10,7 @@ The task is designed to quantify how much a chromatic surround biases the percei
 This calibration is critical for the main experiment, where physical color differences and perceptual color differences will be experimentally dissociated.
 
 
-# Theoretical Background
+## Theoretical Background
 
 The study investigates whether subjective confidence can be dissociated from objective accuracy.
 
