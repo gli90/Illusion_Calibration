@@ -19,8 +19,11 @@ Perceptual discrimination threshold (task a)
 Estimated using a QUEST adaptive staircase procedure.
 
 This task(b)
+
 Illusion-induced perceptual bias
+
 Δ_illusion
+
 Estimated using a color matching procedure.
 
 The main experiment will later combine these measurements to create stimuli in which:
