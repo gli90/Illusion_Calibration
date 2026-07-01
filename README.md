@@ -10,30 +10,20 @@ This calibration is critical for the main experiment, where physical color diffe
 ## Theoretical Background
 
 The study investigates whether subjective confidence can be dissociated from objective accuracy.
-
 To achieve this goal, we first need to measure:
 
-Task A
-
-Perceptual discrimination threshold
-
-\Delta_{threshold}
-
+Perceptual discrimination threshold (task a)
+Δ_threshold
 Estimated using a QUEST adaptive staircase procedure.
 
 Task B
-
 Illusion-induced perceptual bias
-
-\Delta_{illusion}
-
+Δ_illusion
 Estimated using a color matching procedure.
 
 The main experiment will later combine these measurements to create stimuli in which:
-
 Physical color difference
 Perceived color difference
-
 can be manipulated independently.
 
 
