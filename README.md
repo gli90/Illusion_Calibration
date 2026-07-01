@@ -3,12 +3,9 @@
 
 ## Purpose
 
-This task(b) estimates each participant’s illusion magnitude (Δ_illusion) using a color matching / nulling procedure.
-
+In this task(b), we estimates each participant’s illusion magnitude (Δ_illusion) using a color matching / nulling procedure.
 The task is designed to quantify how much a chromatic surround biases the perceived color of a central patch.
-
 This calibration is critical for the main experiment, where physical color differences and perceptual color differences will be experimentally dissociated.
-
 
 ## Theoretical Background
 
@@ -161,7 +158,7 @@ This allows estimation of illusion strength across the color continuum rather th
 
 Current version:
 
-5 Anchors
+5 Anchors 
 ×
 8 Repetitions
 =
