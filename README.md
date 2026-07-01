@@ -13,10 +13,12 @@ The study investigates whether subjective confidence can be dissociated from obj
 To achieve this goal, we first need to measure:
 
 Perceptual discrimination threshold (task a)
+
 Δ_threshold
+
 Estimated using a QUEST adaptive staircase procedure.
 
-Task B
+This task(b)
 Illusion-induced perceptual bias
 Δ_illusion
 Estimated using a color matching procedure.
