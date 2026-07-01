@@ -26,9 +26,9 @@ Illusion-induced perceptual bias
 
 Estimated using a color matching procedure.
 
-The main experiment will later combine these measurements to create stimuli in which:
-Physical color difference
-Perceived color difference
+The main experiment will later combine these measurements to create stimuli in which:   
+Physical color difference  
+Perceived color difference  
 can be manipulated independently.
 
 
