@@ -14,6 +14,7 @@ To achieve this goal, we first need to measure:
 
 Perceptual discrimination threshold (task a)
 Δ_threshold
+
 Estimated using a QUEST adaptive staircase procedure.
 
 Task B
